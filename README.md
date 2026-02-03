@@ -39,19 +39,20 @@ I combine **frontend, backend, and UI/UX**, building modern, fast, and well-craf
 
 ## 🧠 Projects
 
-- **Chatbot Application UI** — modern interface focused on UX and performance (Vite, React)  
-- **Eagle Weber** — e-learning application (Next.js, C#, Docker)  
-- **Expense Tracker** — expense management application (React, Firebase, SCSS)  
+- **Translarte.pl — personal website (Astro + Firebase, fullstack) 🌐  
+- **Chatbot Application UI** — modern interface focused on UX and performance (Vite, React) 🤖  
+- **Eagle Weber** — e-learning application (Next.js, C#, Docker) 🎓  
+- **Expense Tracker** — expense management application (React, Firebase, SCSS) 💰  
 
 ---
 
 ## 🎨 Design
 
-- Visual identity & logo design  
-- Web application UI design  
-- Social media graphics  
-- Advertising materials & banners  
-- Clothing & merchandise design  
+- Visual identity & logo design ✨  
+- Web application UI design 🖥️  
+- Social media graphics 📱  
+- Advertising materials & banners 🏷️  
+- Clothing & merchandise design 👕  
 
 ---
 
@@ -71,21 +72,16 @@ I combine **frontend, backend, and UI/UX**, building modern, fast, and well-craf
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns  
-- Fullstack chatbots  
-- UX/UI for web applications  
+- Advanced React patterns ⚛️  
+- Fullstack chatbots 🤖  
+- UX/UI for web applications 🎨  
 
 ---
 
 ## 📫 Contact
 
 📧 surfrkaa@gmail.com  
+🌐 [Visit my website](https://surf3rka-dev.github.io/SuRF3RkA.github.io/) 🌟
 
 > From idea and design to a fully working fullstack application 🚀
-
----
-
-## 📊 GitHub Stats
-
-![SuRF3RkA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuRF3RkA&show_icons=true&theme=dark)
 
