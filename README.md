@@ -1,82 +1,91 @@
-👋 Hi, I’m SuRF3RkA
+# 👋 Hi, I’m SuRF3RkA
 
-💻 Fullstack Developer & Graphic Designer
-🎨 I create unique digital experiences — from design, through frontend, to backend
+💻 **Fullstack Developer & Graphic Designer**  
+🎨 I create unique digital experiences — from design, through frontend, to backend.
 
-I’m a graduate of a Technical Secondary School, major: Software Developer (Technik Programista). I combine frontend, backend, and UI/UX, building modern, fast, and well-crafted web applications.
+I’m a graduate of a **Technical Secondary School, major: Software Developer (Technik Programista)**.  
+I combine **frontend, backend, and UI/UX**, building modern, fast, and well-crafted web applications.
 
-🚀 Technologies & Skills
+---
 
-Frontend
+## 🚀 Technologies & Skills
 
-HTML5, CSS3, SCSS
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange) 
+![CSS](https://img.shields.io/badge/CSS3-blue) 
+![SCSS](https://img.shields.io/badge/SCSS-purple) 
+![JavaScript](https://img.shields.io/badge/JS-yellow)
+![TypeScript](https://img.shields.io/badge/TS-blue)
+![React](https://img.shields.io/badge/React-blue)
+![Angular](https://img.shields.io/badge/Angular-red)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Astro](https://img.shields.io/badge/Astro-darkblue)
+![Vite](https://img.shields.io/badge/Vite-cyan)
 
-JavaScript, TypeScript
+### Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Firebase](https://img.shields.io/badge/Firebase-orange)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![DBeaver](https://img.shields.io/badge/DBeaver-darkgreen)
 
-React, Angular, Bootstrap
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![C#](https://img.shields.io/badge/C%23-purple)
 
-Next.js, Astro, Vite
+---
 
-Backend & Databases
+## 🧠 Projects
 
-PHP
+- **Chatbot Application UI** — modern interface focused on UX and performance (Vite, React)  
+- **Eagle Weber** — e-learning application (Next.js, C#, Docker)  
+- **Expense Tracker** — expense management application (React, Firebase, SCSS)  
 
-Firebase
+---
 
-MySQL
+## 🎨 Design
 
-Docker, DBeaver
+- Visual identity & logo design  
+- Web application UI design  
+- Social media graphics  
+- Advertising materials & banners  
+- Clothing & merchandise design  
 
-Programming Languages
+---
 
-C++
+## 📚 Education
 
-Java
+🎓 **Technical Secondary School — Software Developer (Technik Programista)**  
+✅ Professional qualifications: INF.03 and INF.04  
 
-C#
+---
 
-🧠 Projects
+## 🌍 Languages
 
-Translarte.pl — personal website
-(Astro + Firebase, fullstack)
+🇵🇱 Polish — native  
+🇬🇧 English — communicative  
 
-Chatbot Application UI — modern interface focused on UX and performance
-(Vite, React)
+---
 
-Eagle Weber — e-learning application
-(Next.js, C#, Docker)
+## 🌱 Currently Learning
 
-Expense Tracker — expense management application
-(React, Firebase, SCSS)
+- Advanced React patterns  
+- Fullstack chatbots  
+- UX/UI for web applications  
 
-🎨 Design
+---
 
-Visual identity & logo design
+## 📫 Contact
 
-Web application UI design
+📧 surfrkaa@gmail.com  
 
-Social media graphics
+> From idea and design to a fully working fullstack application 🚀
 
-Advertising materials & banners
+---
 
-Clothing & merchandise design
+## 📊 GitHub Stats
 
-📚 Education
+![SuRF3RkA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuRF3RkA&show_icons=true&theme=dark)
 
-🎓 Technical Secondary School — Software Developer (Technik Programista)
-
-✅ Professional qualifications: INF.03 and INF.04
-
-🌍 Languages
-
-🇵🇱 Polish — native
-
-🇬🇧 English — communicative
-
-📫 Contact
-
-📧 surfrkaa@gmail.com
-
-🌐 https://surf3rka-dev.github.io/SuRF3RkA.github.io/
-
-From idea and design to a fully working fullstack application 🚀
