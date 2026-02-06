@@ -3,7 +3,7 @@
 💻 **Fullstack Developer & Graphic Designer**  
 🎨 I create unique digital experiences — from design, through frontend, to backend.
 
-I’m a graduate of a **Technical Secondary School, major: Software Developer (Technik Programista)**.  
+I’m a graduate of a **Technical Secondary School, major: Software Developer**.  
 I combine **frontend, backend, and UI/UX**, building modern, fast, and well-crafted web applications.
 
 ---
