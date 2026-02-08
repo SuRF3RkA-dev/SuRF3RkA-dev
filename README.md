@@ -39,7 +39,7 @@ I combine **frontend, backend, and UI/UX**, building modern, fast, and well-craf
 
 ## 🧠 Projects
 
-- **Translarte.pl — personal website (Astro + Firebase, fullstack) 🌐  
+- Translarte.pl — personal website (Astro + Firebase, fullstack) 🌐  
 - **Chatbot Application UI** — modern interface focused on UX and performance (Vite, React) 🤖  
 - **Eagle Weber** — e-learning application (Next.js, C#, Docker) 🎓  
 - **Expense Tracker** — expense management application (React, Firebase, SCSS) 💰  
