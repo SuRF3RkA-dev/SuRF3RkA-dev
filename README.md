@@ -58,7 +58,7 @@ I combine **frontend, backend, and UI/UX**, building modern, fast, and well-craf
 
 ## 📚 Education
 
-🎓 **Technical Secondary School — Software Developer (Technik Programista)**  
+🎓 **Technical Secondary School — Software Developer**  
 ✅ Professional qualifications: INF.03 and INF.04  
 
 ---
