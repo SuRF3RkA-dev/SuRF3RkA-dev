@@ -82,6 +82,7 @@ I combine **frontend, backend, and UI/UX**, building modern, fast, and well-craf
 
 📧 surfrkaa@gmail.com  
 🌐 [Visit my website](https://surf3rka-dev.github.io/SuRF3RkA.github.io/) 🌟
+
 ⚠️ Note: This website is still under construction, so some sections might not be fully complete yet.
 
 > From idea and design to a fully working fullstack application 🚀
