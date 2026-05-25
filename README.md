@@ -1,89 +1,52 @@
-# 👋 Hi, I’m SuRF3RkA
+👋 Hi, I’m SuRF3RkA
 
-💻 **Fullstack Developer & Graphic Designer**  
-🎨 I create unique digital experiences — from design, through frontend, to backend.
+💻 Fullstack Developer & UI/UX Enthusiast
+I create modern digital applications — from UI/UX design, through frontend development, to backend integration.
 
-I’m a graduate of a **Technical Secondary School, major: Software Developer (Technik Programista)**.  
-I combine **frontend, backend, and UI/UX**, building modern, fast, and well-crafted web applications.
+I am a graduate of a Technical Secondary School (Software Developer specialization).
+I focus on building fast, scalable and well-structured web applications, combining frontend, backend and user experience design.
 
----
+🚀 Technologies & Skills
+Frontend
 
-## 🚀 Technologies & Skills
+HTML, CSS/SCSS, JavaScript, TypeScript, React, Next.js, Angular, Bootstrap, Astro, Vite
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange) 
-![CSS](https://img.shields.io/badge/CSS3-blue) 
-![SCSS](https://img.shields.io/badge/SCSS-purple) 
-![JavaScript](https://img.shields.io/badge/JS-yellow)
-![TypeScript](https://img.shields.io/badge/TS-blue)
-![React](https://img.shields.io/badge/React-blue)
-![Angular](https://img.shields.io/badge/Angular-red)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![Astro](https://img.shields.io/badge/Astro-darkblue)
-![Vite](https://img.shields.io/badge/Vite-cyan)
+Backend & Databases
 
-### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-purple)
-![Firebase](https://img.shields.io/badge/Firebase-orange)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![DBeaver](https://img.shields.io/badge/DBeaver-darkgreen)
+PHP, Node.js, Firebase, MySQL, Docker, DBeaver
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![C#](https://img.shields.io/badge/C%23-purple)
+Programming Languages
 
----
+C++, Java, C#
 
-## 🧠 Projects
+🧠 Projects
+Translarte.pl — fullstack personal project (Astro + Firebase)
+Chatbot UI Application — modern UI focused on UX and performance (React, Vite)
+Eagle Weber — e-learning platform (Next.js, C#, Docker)
+Expense Tracker — finance management app (React, Firebase, SCSS)
+🎨 Design
+UI/UX design for web applications
+Visual identity & logo design
+Digital graphics (social media, banners, marketing materials)
+Branding and merchandise concepts
+📚 Education
 
-- Translarte.pl — personal website (Astro + Firebase, fullstack)🌐  
-- **Chatbot Application UI** — modern interface focused on UX and performance (Vite, React)🤖  
-- **Eagle Weber** — e-learning application (Next.js, C#, Docker)🎓  
-- **Expense Tracker** — expense management application (React, Firebase, SCSS)💰  
+🎓 Technical Secondary School — Software Developer
+✔ Professional qualifications: INF.03 / INF.04
 
----
+🌍 Languages
 
-## 🎨 Design
+🇵🇱 Polish — native
+🇬🇧 English — communicative (B1/B2)
 
-- Visual identity & logo design✨  
-- Web application UI design🖥️  
-- Social media graphics📱  
-- Advertising materials & banners🏷️  
-- Clothing & merchandise design👕  
+🌱 Currently Learning
+Advanced React patterns
+Fullstack architecture & system design
+UX/UI optimization for web applications
+Backend scalability and API design
+📫 Contact
 
----
+📧 surfrkaa@gmail.com
+🌐 Portfolio: https://surf3rka-dev.github.io/SuRF3RkA.github.io/
 
-## 📚 Education
-
-🎓 **Technical Secondary School — Software Developer**  
-✅ Professional qualifications: INF.03 and INF.04  
-
----
-
-## 🌍 Languages
-
-🇵🇱 Polish — native  
-🇬🇧 English — communicative  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React patterns⚛️  
-- Fullstack chatbots🤖  
-- UX/UI for web applications🎨  
-
----
-
-## 📫 Contact
-
-📧 surfrkaa@gmail.com  
-🌐 [Visit my website](https://surf3rka-dev.github.io/SuRF3RkA.github.io/) 🌟
-
-⚠️ Note: This website is still under construction, so some sections might not be fully complete yet.
-
-> From idea and design to a fully working fullstack application 🚀
-
+From idea and design to a fully working fullstack application 🚀
